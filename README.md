@@ -1,16 +1,13 @@
 # DysThoughts
 
-A new Flutter project.
+Developed using Flutter, DysThoughts is a cross-platform software that helps evaluate children for SLD and assist them develop some core abilities, like reading comprehension, short-term memory, and arithmetic problem solving.
 
-## Getting Started
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Light/dark mode 
+- Responsive Design
+- Fullscreen mode
+- Cross platform
