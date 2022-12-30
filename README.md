@@ -1,4 +1,4 @@
-# software_engg_project
+# DysThoughts
 
 A new Flutter project.
 
