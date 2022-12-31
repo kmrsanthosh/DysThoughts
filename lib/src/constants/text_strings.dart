@@ -64,24 +64,3 @@ const String tForgetMailSubTitle = "Enter your registered E-Mail to receive OTP"
 const String tOtpTitle = "CO\nDE";
 const String tOtpSubTitle = "Verification";
 const String tOtpMessage = "Enter the verification code sent at ";
-
-// -- Dashboard Screen - Text
-const String tDashboardTitle = "Hey, Coding with T";
-const String tDashboardHeading = "Explore Courses";
-const String tDashboardSearch = "Search...";
-const String tDashboardBannerTitle1 = "Android for Beginners";
-const String tDashboardBannerTitle2 = "JAVA";
-const String tDashboardBannerSubTitle = "10 lessons";
-const String tDashboardButton = "View All";
-const String tDashboardTopCourses = "Top Courses";
-
-// -- Test 1 - Listening Assessment
-const String tListeningAssessment = "Listening Assessment";
-const String tAnswer = "Answer";
-const listeningAssessmentQN1 = "https://firebasestorage.googleapis.com/v0/b/software-engineering-pro-21553.appspot.com/o/listening_assessment%2Flistening_assessment_1.mp3?alt=media&token=5bd62d8a-703a-4ee3-9bf2-6bf609488366";
-const listeningAssessmentQN2 = "https://firebasestorage.googleapis.com/v0/b/software-engineering-pro-21553.appspot.com/o/listening_assessment%2Flistening_assessment_2.mp3?alt=media&token=315ece95-ba1d-44af-9bf9-7b550bda3d80";
-
-const ishiharaAssessmentPic1 = "https://firebasestorage.googleapis.com/v0/b/software-engineering-pro-21553.appspot.com/o/ishihara_assessment%2Fishihara_assessment_1.png?alt=media&token=79855d1f-8929-4fc2-857a-2b7414b1aed0";
-const ishiharaAssessmentPic2 = "https://firebasestorage.googleapis.com/v0/b/software-engineering-pro-21553.appspot.com/o/ishihara_assessment%2Fishihara_assessment_2.png?alt=media&token=999ee1ee-9e7b-4d61-868a-4a955fe7baac";
-const mathAssessmentPic1 = "https://firebasestorage.googleapis.com/v0/b/software-engineering-pro-21553.appspot.com/o/math_assessment%2Fmath_assessment_1.png?alt=media&token=6f2fb997-256b-4c57-a1d8-cd8045714fce";
-const mathAssessmentPic2 = "https://firebasestorage.googleapis.com/v0/b/software-engineering-pro-21553.appspot.com/o/math_assessment%2Fmath_assessment_2.png?alt=media&token=27ba3040-e4e3-4ec4-8603-68602ece0a6f";
